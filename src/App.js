@@ -22,6 +22,7 @@ function App() {
         <div className="container">
           <div className="app">
           <h2>Writer Association Team</h2>
+          <p>A writing group is a circle of people who meet regularly to read, discuss, and critique one another's work.</p>
           <h4>Total Budget: 100Millions</h4>
           </div>
         
@@ -39,8 +40,8 @@ function App() {
           
       <h4>Total Writer on Team: {writer.length}</h4>
     <h4>Selected Writer: {select.length}</h4>
-    <Select select={select}></Select>
-    <button className="btn btn-info">Done</button>
+    <Select key={select.id} select={select}></Select>
+    <button className="btn btn-outline-info">Confirm</button>
             </div>
           </div>
         </div>

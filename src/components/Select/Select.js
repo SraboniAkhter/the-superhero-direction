@@ -19,7 +19,7 @@ const Select = (props) => {
             <div>
           <ol>
             {writerName.map((name) => (
-              <li key={select.id}>{name}</li>
+              <li key={props.id}>{name}</li>
             ))}
           </ol>
         </div>

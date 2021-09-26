@@ -1,5 +1,8 @@
 .writer {
- background-color: #e3e7eb;
- border: #d1d2d3;
+ background-color: #e7d4a0;
+ border: #303b47;
  margin-top:10px;
+  }
+  .writer img {
+      border-radius: 800px;
   }

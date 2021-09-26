@@ -15,7 +15,7 @@ const Writer = (props) => {
         <h5>Salary:${salary}</h5>
     <p><small>Books: {Book}</small></p>
     <p><small>Nationality: {nationality}</small></p>
-    <button className="btn btn-info" onClick={() => handleAddWriter(props.writer)}><FontAwesomeIcon  icon ={faCheckCircle}/>Add Writers</button>
+    <button className="btn btn-outline-info" onClick={() => handleAddWriter(props.writer)}><FontAwesomeIcon  icon ={faCheckCircle}/>Add Writers</button>
       </div>
         </div>
         </div>
