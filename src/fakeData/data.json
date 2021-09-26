@@ -1,0 +1,77 @@
+[{
+    "id": 1,
+    "name": "Humayun Ahmed",
+    "Born": "November 13, 1948, Netrokona District",
+    "Book": "Himu,Opekkha",
+    "salary":600000,
+    "nationality":"Bangali",
+    "img":"https://www.daily-sun.com/assets/news_images/2020/11/13/humayun_ahmed_10.jpg"
+  }, {
+    "id": 2,
+    "name": "Zafar Iqbal",
+    "Born": "December 23, 1952 (age 68 years), Sylhet",
+    "Book": "Ami topu,Dipu number 2",
+    "salary":310000,
+    "nationality":"Bangali",
+    "img":"https://www.sust.edu/uploads/profile-images/1513593908.jpg"
+    
+  }, {
+    "id": 3,
+    "name": "Humayun Azad",
+    "Born": "April 28, 1947, Munshiganj District",
+    "Book": "Naree",
+    "nationality":"Bangali",
+    "salary":392000,
+    "img":"https://upload.wikimedia.org/wikipedia/bn/thumb/a/ac/%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81%E0%A6%A8_%E0%A6%86%E0%A6%9C%E0%A6%BE%E0%A6%A6_%28%E0%A7%A7%E0%A7%AF%E0%A7%AA%E0%A7%AD-%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AA%29.jpg/220px-%E0%A6%B9%E0%A7%81%E0%A6%AE%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A7%81%E0%A6%A8_%E0%A6%86%E0%A6%9C%E0%A6%BE%E0%A6%A6_%28%E0%A7%A7%E0%A7%AF%E0%A7%AA%E0%A7%AD-%E0%A7%A8%E0%A7%A6%E0%A7%A6%E0%A7%AA%29.jpg"
+  }, {
+    "id": 4,
+    "name": "Ahmed Sofa",
+    "Born": "June 30, 1943, Chattogram",
+    "Book": "Surjo tumi sathi",
+    "salary":320000,
+    "nationality":"Bangali",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/1/1e/Ahmed_Sofa.jpg"
+    
+  }, {
+    "id": 5,
+    "name": "Jasimuddin",
+    "Born": "1 January 1903; Faridpur‎",
+    "Book": "Kobor",
+    "salary":890000,
+    "nationality":"Bangali",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jasimuddin_Lomax_1951_%282%29.jpg/330px-Jasimuddin_Lomax_1951_%282%29.jpg"
+  }, {
+    "id": 6,
+    "name": "Begum Rokeya",
+    "Born": "December 9, 1880, Rangpur",
+    "Book": "Sultana's Dreams",
+    "salary":210000,
+    "nationality":"Bangali",
+    "img":"https://upload.wikimedia.org/wikipedia/commons/7/76/Begum_Rokeya.jpg"
+  }, {
+    "id": 7,
+    "name": "Kazi Nazrul Islam",
+    "Born": "May 24, 1899,Churulia",
+    "Book": "Bidrohi",
+    "nationality":"Bangali",
+    "salary":80000,
+    "img":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Nazrul.jpg"
+    
+  }, {
+    "id": 8,
+    "name": "Jahanara Imam",
+    "Born": "May 3, 1929, Murshidabad",
+    "Book": "Ekkaturer dinguli",
+    "nationality":"Bangali",
+    "salary":530000,
+    "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Jahanara_Imam_1960.jpg/220px-Jahanara_Imam_1960.jpg"
+  }, {
+    "id": 9,
+    "name": "Shamsur Rahman",
+    "Born": "October 23, 1929, Dhaka",
+    "Book": "The devotee",
+    "nationality":"Bangali",
+    "salary":270000,
+    "img":"https://en.banglapedia.org/images/a/a1/RahmanShamsur.jpg"
+    
+  }]
